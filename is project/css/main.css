@@ -1,3 +1,5 @@
+/*-- DEVELOPER: Ryan Tomback, IS117-005, Fall 2021 */
+ 
  header {
         padding: 1.5em 0 2em 0;
         border-bottom: 3px solid greenyellow;
@@ -18,9 +20,9 @@ body {
     margin: 0 auto;
     border: 3px solid greenyellow;
     background-color: #b493b3;
+
 }
 
-    
 
 
 section {
@@ -144,6 +146,7 @@ footer p {
 		text-decoration: none;
 		color: black;
 	}
+	
 
 .footer {
     position: fixed;
